@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FuncsActionsLambdaDelegates")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a795a4b1141016e39b8242629d373298238eefe8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7658ffd18d797fef20fc0ae429ff780a39e8084b")]
 [assembly: System.Reflection.AssemblyProductAttribute("FuncsActionsLambdaDelegates")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FuncsActionsLambdaDelegates")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
