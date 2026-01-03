@@ -1,0 +1,15 @@
+D:\BinhQuoc\NET\FuncsActionsLambdaDelegates\bin\Debug\net10.0\FuncsActionsLambdaDelegates.exe
+D:\BinhQuoc\NET\FuncsActionsLambdaDelegates\bin\Debug\net10.0\FuncsActionsLambdaDelegates.deps.json
+D:\BinhQuoc\NET\FuncsActionsLambdaDelegates\bin\Debug\net10.0\FuncsActionsLambdaDelegates.runtimeconfig.json
+D:\BinhQuoc\NET\FuncsActionsLambdaDelegates\bin\Debug\net10.0\FuncsActionsLambdaDelegates.dll
+D:\BinhQuoc\NET\FuncsActionsLambdaDelegates\bin\Debug\net10.0\FuncsActionsLambdaDelegates.pdb
+D:\BinhQuoc\NET\FuncsActionsLambdaDelegates\obj\Debug\net10.0\FuncsActionsLambdaDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\BinhQuoc\NET\FuncsActionsLambdaDelegates\obj\Debug\net10.0\FuncsActionsLambdaDelegates.AssemblyInfoInputs.cache
+D:\BinhQuoc\NET\FuncsActionsLambdaDelegates\obj\Debug\net10.0\FuncsActionsLambdaDelegates.AssemblyInfo.cs
+D:\BinhQuoc\NET\FuncsActionsLambdaDelegates\obj\Debug\net10.0\FuncsActionsLambdaDelegates.csproj.CoreCompileInputs.cache
+D:\BinhQuoc\NET\FuncsActionsLambdaDelegates\obj\Debug\net10.0\FuncsActionsLambdaDelegates.sourcelink.json
+D:\BinhQuoc\NET\FuncsActionsLambdaDelegates\obj\Debug\net10.0\FuncsActionsLambdaDelegates.dll
+D:\BinhQuoc\NET\FuncsActionsLambdaDelegates\obj\Debug\net10.0\refint\FuncsActionsLambdaDelegates.dll
+D:\BinhQuoc\NET\FuncsActionsLambdaDelegates\obj\Debug\net10.0\FuncsActionsLambdaDelegates.pdb
+D:\BinhQuoc\NET\FuncsActionsLambdaDelegates\obj\Debug\net10.0\FuncsActionsLambdaDelegates.genruntimeconfig.cache
+D:\BinhQuoc\NET\FuncsActionsLambdaDelegates\obj\Debug\net10.0\ref\FuncsActionsLambdaDelegates.dll
